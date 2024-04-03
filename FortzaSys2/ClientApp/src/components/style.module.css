@@ -1,0 +1,10 @@
+﻿/* style.module.css */
+
+.placeholder {
+    color: #999; /* Placeholder text color */
+    font-style: italic; /* Italicize the placeholder text */
+}
+
+.head {
+    color: azure;
+}
